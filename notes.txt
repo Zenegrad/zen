@@ -1,0 +1,18 @@
+wasd - movement
+e-q - word by word
+
+potential views
+insert 
+select
+command
+
+
+potential dependencies to mimic or use
+ratatui
+crossterm
+inquire
+indicatif
+termcolor
+cli-clipboard
+accesskit
+
